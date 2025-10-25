@@ -4,7 +4,7 @@
 <p>A passionate frontend developer from the Philippines</p>
 
 # 💫 About Me:
-About Me:<br>👋 Hi, I'm Mark, a backend and full-stack developer passionate about building scalable applications and seamless user experiences.<br><br>💻 I specialize in NestJS, Prisma, MongoDB, and MEAN Stack, with expertise in API development, database optimization, and security.<br><br>🚀 Currently, I'm working on gamified learning platforms, SaaS integrations, and institutional dashboard projects.<br><br>📚 Always learning and exploring AI-powered apps, automation, and digital transformation.<br><br>🌱 Open to collaboration on backend-heavy projects, API integrations, and database management.<br><br>Let's connect and build something amazing! 🔥
+About Me:<br>👋 Hi, I'm Mark, a backend and full-stack developer passionate about building scalable applications and seamless user experiences.<br><br>💻 I specialize in NestJS, Prisma, MongoDB, MYSQL, GRAPHQL and MERN, MEAN Stack, with expertise in API development, database optimization, and security.<br><br>🚀 Currently, I'm working on gamified learning platforms, SaaS integrations, and institutional dashboard projects.<br><br>📚 Always learning and exploring AI-powered apps, automation, and digital transformation.<br><br>🌱 Open to collaboration on backend-heavy projects, API integrations, and database management.<br><br>Let's connect and build something amazing! 🔥
 
 
 ## 🌐 Socials:
